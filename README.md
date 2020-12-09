@@ -1,3 +1,15 @@
+三维点云标注软件
+
+使用：
+语义分割标注工具Semantic-Segmentation-Editor 在Win10与Ubuntu1604的图文安装过程：https://blog.csdn.net/r1141207831/article/details/106272960/
+
+点云语义分割标注工具-semantic-segmentation-editor： https://blog.csdn.net/qq_43049432/article/details/99314008
+
+利用三维点云标注软件分割已知场景、构建语义地图： https://blog.csdn.net/qq_25026989/article/details/85265663
+
+
+
+
 # Semantic Segmentation Editor
 
 A web based labeling tool for creating AI training data sets (2D and 3D).
